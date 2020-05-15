@@ -6,8 +6,8 @@ Goal: This script reads the file family_import.txt and builds a adjacency list o
         a person can have a father, mother, children and sibbling.
 Future Improvement:
         There should be another file which should provide the details of the person like age, gender.
-        Right now its all null. This would be really helpful if the input was like A,Children,B
-        Then we could figure out if M is the mother or father of A.
+        Right now its all null. This would be really helpful for the inputs like A,Children,B
+        Then we could figure out if B is either the mother or father of A.
 """
 
 
